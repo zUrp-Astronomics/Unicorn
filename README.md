@@ -9,7 +9,7 @@
  
  Firmware is available on the [project GitHub](https://github.com/charleslemaire0/TeenAstro) (support in progress)
  
- ![TeenAstro Wiki](https://github.com/charleslemaire0/TeenAstro/blob/master/logoTeenAstro.jpg?raw=true)
+ ![TeenAstro logo](4_Assets/logoTeenAstro.jpg)
  
 
 ## Project details
@@ -18,7 +18,7 @@ Source project can be found on [OSHWLab](https://oshwlab.com/lordzurp/teenastro-
 
 ### Main Board : TeenAstro Redux
 
-![3D_view](TeenAstro_Redux.png)
+![3D_view](4_Assets/TeenAstro_Redux.png)
 
 #### Specs
 
@@ -39,7 +39,7 @@ Source project can be found on [OSHWLab](https://oshwlab.com/lordzurp/teenastro-
 
 ### Smart Hand Controller (SHC)
 
-![3D_view](SHC.png)
+![3D_view](4_Assets/SHC.png)
 
 #### Specs
 
