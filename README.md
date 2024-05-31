@@ -68,4 +68,5 @@ The TH parts are listed into the BOM file, with "add to BOM" option set to "No"
 
 all necessary files are available, with complete BOM, gerbers files and Pick_n_Place. Choose your PCB manufacturer, order the parts by yourself and grow up your soldering skill with a complete by-hand board. Be aware there are very small components or pitch, manual assembling should be reserved to advanced and skilled users
 
-
+### 3D case
+3D models are available for printing cases, the source file (Fusion360 and STEP) let you customise the cases, while the .3MF are ready to slice and print.
