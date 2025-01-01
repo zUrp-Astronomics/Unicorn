@@ -22,7 +22,7 @@ Source project can be found on [OSHWLab](https://oshwlab.com/lordzurp/teenastro-
 
 #### Specs
 
-* 56x54mm form factor, 60x58x20 3D printed case
+* 56x52mm form factor, 60x56x20 3D printed case
 * 12 to 25V power input, 3A max
 * Power protection (rearmable fuse + wrong polarity)
 * ESD protection on USB and SHC port
