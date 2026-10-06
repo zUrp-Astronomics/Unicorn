@@ -1,0 +1,40 @@
+# SOURCE: zurp-astronomics-site — fiche vitrine de Unicorn, lue par le site zurp-astronomics.github.io
+# AUTHOR: engineer (fiche du site), architect (migration et affiche 2.7)
+# DATE: 2026-10-06
+# STATUS: active — fiche du site (content/products/unicorn/, main 47d9bb2), affiche remplacée par la
+#   série 2.7 (ready-room/2.7_unicorn.png) : posterAlt et accent mis à jour, le reste mot pour mot
+# Correction (dépôt Unicorn, arbitrage de l'humain du 2026-10-06) : le second paragraphe de
+#   description affirmait deux fonctions que le README du dépôt contredit ; il a été réécrit
+#   d'après le dépôt. Rien d'autre n'a changé.
+#
+# Vit dans 9_Assets/zurp.yml du dépôt Unicorn. Le site zurp-astronomics.github.io la lit au build,
+# avec l'affiche à côté ; il ne lit rien d'autre du dépôt que 9_Assets/ et ce que GitHub en sait.
+#
+# Déduit, donc absent d'ici : le slug (nom du dossier, ou du dépôt, en minuscules → /unicorn/), le
+# lien vers le dépôt (https://github.com/zUrp-Astronomics/unicorn), la version (tag de la dernière
+# release GitHub), le rang dans sa section. Le statut s'écrit ici, c'est l'humain qui le décide.
+
+name: Unicorn
+tagline: Small but effective controller for astronomical mount, in a Tic-Tac box size.
+slogan: Small but effective
+category: Controller
+section: gadgets          # mounts | cameras | gadgets | future
+status: wip               # wip | future | released — décidé par l'humain, jamais déduit d'une release
+basedOn: TeenAstro
+
+description:
+  - >-
+    Unicorn is a pocket-sized controller for astronomical mounts, fitting in a Tic-Tac box. Based on
+    the TeenAstro project, adapted for minimal footprint and maximal portability.
+  - >-
+    Full-featured despite the size: dual-axis stepper control (TMC2660), integrated GNSS, encoder
+    support, WiFi through the hand controller, INDI/ASCOM compatible. A Tic-Tac box that outperforms
+    most commercial hand controllers.
+
+poster: unicorn.png       # à côté de cette fiche — l'affiche série 2.7 (1254 × 1254)
+posterAlt: >-
+  Unicorn poster on a worn, chipped cream plate: a rearing mechanical unicorn with cream armour
+  plates, brass gears, a spiralled violet horn, a glowing violet eye and a flowing purple mane, in
+  front of the full moon, deep violet rays and blueprint sketches of a horse head, above the slogan
+  “Small but effective”.
+accent: '#6109aa'         # couleur des rayons de l'affiche (médiane relevée sur la 2.7)

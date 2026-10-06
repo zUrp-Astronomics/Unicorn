@@ -1,0 +1,26 @@
+<Produit> - Main board v<X.Y>
+zUrp Astronomics - lordzurp.dev@gmail.com
+Projet : <lien EasyEDA/OSHWLab>   Repo : <lien GitHub>
+
+FICHIERS
+  1-Schematics.pdf   schéma
+  2-Views.pdf        vues dessus / dessous / 3D
+  3-Gerber.zip       Gerbers RS-274X + perçages Excellon
+  4-BoM.xlsx         nomenclature, références LCSC
+  5-PnP.xlsx         placement, coordonnées en mm
+
+PCB
+  Couches      : <n>
+  Dimensions   : <L> x <l> mm
+  Épaisseur    : <mm>
+  Cuivre       : <oz>
+  Vernis       : <couleur>      Sérigraphie : <couleur>
+  Finition     : <HASL ROHS / ENIG>
+
+ASSEMBLAGE
+  Face         : <dessus uniquement / deux faces>
+  Composants   : <n> lignes BoM, <n> placements
+  Non montés   : <n>
+
+POINTS D'ATTENTION
+  - <à remplir>
