@@ -1,14 +1,20 @@
-<!-- En-tête vitrine : remplacer ce commentaire par le bloc de
-     https://github.com/zUrp-Astronomics/.github/blob/main/readme-kit/repos/<slug>.md
-     (affiche + badge de statut, servis par le site). Collé une fois, il se met à jour seul. -->
+<!-- zurp-readme-header:begin — paste this block once, never again: the poster and the badges update themselves at each build of the site — do not edit it -->
+<div align="center">
+
+<a href="https://zurp-astronomics.github.io/unicorn/"><img src="https://zurp-astronomics.github.io/brand/posters/unicorn.webp" alt="zUrp Astronomics product poster" width="420"></a>
+
+![status](https://img.shields.io/endpoint?url=https%3A%2F%2Fzurp-astronomics.github.io%2Fbrand%2Fstatus%2Funicorn.json)
+![licence](https://img.shields.io/github/license/zUrp-Astronomics/unicorn)
+
+</div>
+
+<!-- zurp-readme-header:end -->
 
 # Unicorn — Mount Control Station
 
 **Date**: 2026-10-06
 **Status**: wip
 **Referenced by**: any user of this repository
-
-![GPL 3.0 License](https://img.shields.io/badge/GitHub-GPL--3.0-informational)
 
 # ⚠ Work in Progress — NOT VALIDATED — don't build it ⚠
 
@@ -20,8 +26,6 @@ project (`TeenAstro_Redux…`); Unicorn is the zUrp name given to this build.
 Visit the main project wiki on [groups.io](https://groups.io/g/TeenAstro/wiki).
 
 The firmware is available on the [TeenAstro GitHub](https://github.com/charleslemaire0/TeenAstro) (support in progress).
-
-![TeenAstro logo](9_Assets/logoTeenAstro.jpg)
 
 ## Project details
 
