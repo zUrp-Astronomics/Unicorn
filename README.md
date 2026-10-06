@@ -4,17 +4,12 @@
 <a href="https://zurp-astronomics.github.io/unicorn/"><img src="9_Assets/unicorn.png" alt="zUrp Astronomics product poster" width="420"></a>
 
 ![status](https://img.shields.io/endpoint?url=https%3A%2F%2Fzurp-astronomics.github.io%2Fbrand%2Fstatus%2Funicorn.json)
-![licence](https://img.shields.io/github/license/zUrp-Astronomics/unicorn)
 
 </div>
 
 <!-- zurp-readme-header:end -->
 
 # Unicorn — Mount Control Station
-
-**Date**: 2026-10-06
-**Status**: wip
-**Referenced by**: any user of this repository
 
 # ⚠ Work in Progress — NOT VALIDATED — don't build it ⚠
 
@@ -110,14 +105,12 @@ slice and print.
 | `2_Hardware/` | off-board mechanics: enclosure, parts (STEP), mechanical bill of materials |
 | `3_3D-Models/` | ready-to-print files (3MF, STL) |
 | `4_Firmware/` | firmware: sources, build, tests |
-| `5_App/` | PC / phone applications |
-| `6_Driver/` | drivers (INDI, ASCOM…) |
-| `7_Docs/` | documentation: protocol, design notes |
-| `8_References/` | external reference documents |
+| `5_App/` | PC / phone applications, configuration tools |
 | `9_Assets/` | images for the README and docs; `zurp.yml` showcase sheet and poster, read by the site |
 
-A folder with no purpose for the project stays absent, or empty with its README.
+A folder with no purpose for the project is absent.
 
-## License
+## Licenses
 
-This project is licensed under the GPL-3.0. See [`LICENSE`](LICENSE).
+- Software: GPL-3.0, see [`LICENSE`](LICENSE).
+- Hardware: Open Community License (OCL v1.1), see [`LICENSE-HARDWARE`](LICENSE-HARDWARE).
