@@ -1,0 +1,8 @@
+{
+  "_schema": "lcars/declaration",
+  "declared_at": "2026-10-06",
+  "declared_by": "starfleet",
+  "justification": "Carte déclarée par l'humain : brief-gate, comme ses autres projets zUrp-Astronomics.",
+  "pipeline_default": "brief-gate",
+  "upstream": "https://github.com/zUrp-Astronomics/unicorn"
+}
