@@ -4,8 +4,8 @@
 # STATUS: active — fiche du site (content/products/unicorn/, main 47d9bb2), affiche remplacée par la
 #   série 2.7 (ready-room/2.7_unicorn.png) : posterAlt et accent mis à jour, le reste mot pour mot
 # Correction (dépôt Unicorn, arbitrage de l'humain du 2026-10-06) : le second paragraphe de
-#   description affirmait un port ST4 et le Bluetooth, que le dépôt contredit (README : « no ST4
-#   port » ; seule radio : l'ESP8266 de la raquette, en WiFi). Il a été réécrit ; rien d'autre.
+#   description affirmait deux fonctions que le README du dépôt contredit ; il a été réécrit
+#   d'après le dépôt. Rien d'autre n'a changé.
 #
 # Vit dans 9_Assets/zurp.yml du dépôt Unicorn. Le site zurp-astronomics.github.io la lit au build,
 # avec l'affiche à côté ; il ne lit rien d'autre du dépôt que 9_Assets/ et ce que GitHub en sait.
