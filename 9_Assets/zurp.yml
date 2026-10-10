@@ -15,7 +15,9 @@
 # release GitHub), le rang dans sa section. Le statut s'écrit ici, c'est l'humain qui le décide.
 
 name: Unicorn
-tagline: Small but effective controller for astronomical mount, in a Tic-Tac box size.
+tagline: >-
+  A complete mount controller in a Tic-Tac box: dual-axis steppers, GNSS, encoders and a Wi-Fi hand
+  controller, on TeenAstro.
 slogan: Small but effective
 category: Controller
 section: gadgets          # mounts | cameras | gadgets | future
