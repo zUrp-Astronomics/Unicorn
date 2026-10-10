@@ -13,7 +13,7 @@
 
 <h1 align="center">Unicorn</h1>
 
-<p align="center"><strong><em>Small but effective.</em></strong></p>
+<p align="center"><strong><em>Small but effective</em></strong></p>
 
 <p align="center">
   <a href="https://zurp-astronomics.github.io/unicorn/">Website</a> ·
